@@ -1,5 +1,8 @@
 ![download__2_-removebg-preview](https://github.com/user-attachments/assets/650bdc61-b471-4a22-8e8e-cfcacfea6d9f)
 
+X account: https://x.com/kenaeos
+
+Website: https://kena-eos.com/
 
 # Kena-EOS
 
