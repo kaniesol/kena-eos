@@ -1,3 +1,6 @@
+![download__2_-removebg-preview](https://github.com/user-attachments/assets/650bdc61-b471-4a22-8e8e-cfcacfea6d9f)
+
+
 # Kena-EOS
 
 Kena-EOS is an Enhanced Operational System designed to streamline AI agent creation and deployment. Integrating with Griffain and Arc frameworks, it provides advanced tools for building, customizing, and managing AI solutions.
